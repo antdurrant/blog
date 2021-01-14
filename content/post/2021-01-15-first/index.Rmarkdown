@@ -1,11 +1,11 @@
 ---
 title: First
-author: JPREP
+author: Anthony Durrant
 date: '2021-01-15'
 slug: first
 categories: []
 tags: []
-subtitle: ''
+subtitle: 'There has to be a first post, so this may as well be it.'
 summary: ''
 authors: []
 lastmod: '2021-01-15T01:03:29+09:00'
@@ -16,3 +16,8 @@ image:
   preview_only: no
 projects: []
 ---
+
+
+# Welcome!
+
+My name is Anthony and I am testing this out, based on [Alison Hill's blog post]("https://alison.rbind.io/post/new-year-new-blogdown/").
